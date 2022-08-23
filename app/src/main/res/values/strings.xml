@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EmployeeApp</string>
+    <string name="employee_pic">employee pic</string>
+    <string name="team">Team: %1$s</string>
+    <string name="type"><b>Employment Type:</b> %1$s</string>
+    <string name="bio"><b>Bio:</b> %1$s</string>
+    <string name="empty">Oops.. No Data</string>
+    <string name="error_text">Problem loading the data!</string>
+    <string name="error_icon">error icon</string>
+    <string name="refresh">Refresh</string>
+</resources>
