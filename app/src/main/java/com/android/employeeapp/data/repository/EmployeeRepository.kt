@@ -8,9 +8,9 @@ class EmployeeRepository
 @Inject
 constructor(
     private val apiClient: EmployeeAPI
-    ) {
+) {
 
-    suspend fun getEmployees() : EmployeeResponse {
+    suspend fun getEmployees(): EmployeeResponse {
         return apiClient.getEmployees()
     }
 }
